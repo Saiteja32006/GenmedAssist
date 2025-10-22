@@ -12,4 +12,4 @@ touch app.py
 touc resarch/trails.ipynb
 touch requirements.txt
 
-echo "files and directories created"
+echo "files and directories created" 
